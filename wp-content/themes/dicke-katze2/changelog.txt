@@ -1,0 +1,86 @@
+Version 2.4.0 (07.29.11)
+NEW: Ported Theme Options to the Options Framework Plugin (functions.php, options.php)
+NEW: New Theme Customization Options (options.php)
+NEW: Integrated Gravity Forms Styles (header.php, style-gravity-forms.css)
+NEW: New Post Video Options (functions.php, meta-boxes/post-video.php)
+NEW: Disable Header Search Opitons (header.php)
+NEW: Disable Home Page Posts Options (home.php)
+NEW: Featured Category Label Options (home.php)
+NEW: Category Page Label Options (category.php)
+NEW: Home Page Gallery Label Options (home.php)
+NEW: Custom Search Field Text Options (searchform.php)
+NEW: Post Item Date Text Options (loop-gallery.php, loop-single.php)
+NEW: Post Item Comments Text Options (loop-gallery.php, loop-single.php)
+NEW: 404 Page Text Options (404.php)
+NEW: Disable Post Comment Options (single.php)
+REVISED: Updated Fancybox Scripts to Latest Version (scripts/fancybox.min.js)
+REVISED: Simple Video Embedder Plugin No Longer Required (functions.php)
+REVISED: Blog Page Template No Longer Required for Traditional Blog Posts
+REVISED: Updated Theme Style Options (style-custom.php)
+FIXED: Carousel Randomly Cycling Fast and Faster (scripts/jquery.coda.js)
+
+
+Version 2.3.3 (02.24.11)
+FIXED: Menus Behind Embedded Videos (functions.php)
+
+
+Version 2.3.2 (01.10.11)
+REVISED: Pagination on Home Page Disabled When Home Page Category Option is Enabled (footer.php)
+
+
+Version 2.3.1 (12.17.10)
+FIXED: Home Page Sidebar Widgets Disappear When Home Page Category Option is Enabled (home.php)
+FIXED: IE7 Compatibility Issues With Custom Background Options (header.php, style-custom.php, options/custom-styles.php)
+
+
+Version 2.3 (12.08.10)
+NEW: Ability to Disable the Home Page Carousel (functions.php, options/featured-content.php, header.php, home.php)
+NEW: Ability to Specify Which Posts (by Category) are Displayed on the Home Page Below the Carousel (functions.php, options/home-page.php, home.php, gallery-item.php)
+NEW: Ability to Specify Which Posts (by Category) are Displayed within the Blog Page Template (functions.php, options/blog-page.php, page-blog.php)
+REVISED: Updated Custom Menu Code (functions.php)
+FIXED: Centered Image Alignment (style.css)
+FILES ADDED: options/home-page.php, options/blog-page.php, gallery-item.php
+
+
+Version 2.2.2 (10.20.10)
+FIXED: Update Notifications Server Incompatibility (functions.php)
+
+
+Version 2.2.1 (08.28.10)
+NEW: Added the Ability to Toggle Featured Categories On or Off (functions.php, home.php, options/featured-categories.php, style.css3.css)
+
+
+Version 2.2 (08.19.10)
+NEW: Added Custom Favicon Options (functions.php, header.php, options/custom-favicon.php)
+REVISED: Updated Logo Customization Options (functions.php, options/custom-logo.php)
+REVISED: Updated Background Customization Options (functions.php, options/custom-background.php, style-custom.php)
+FIXED: Background Customization Options Bug (options/custom-background.php)
+FIXED: IE Optimizations to Improve Load Times (scripts/fancybox/style.css)
+FILES ADDED: scripts/si.files.js, options/custom-favicon.php, images/choose-file.jpg
+
+
+Version 2.1.2 (07.26.10)
+NEW: Auto-Update Notifications via the WordPress Admin (functions.php, update-notify.php)
+
+
+Version 2.1.1 (07.03.10)
+FIXED: Theme Options Bug for Windows Servers and WordPress 3.0 (functions.php)
+
+Version 2.1 (06.21.10)
+NEW: Fancy Image Integration for Linked Images (jquery.fancybox.js)
+NEW: Completely Revised Options Page (functions.php, functions.css)
+FIXED: Comments Layout Bug (comments.php)
+FIXED: Menu Link Color Bug (style.custom.php)
+
+
+Version 2.0 (06.04.10)
+NEW: Completely Redesigned and Developed From the Ground Up (all files)
+
+
+Version 1.2 (05.05.09)
+NEW: Added "Simple Post Thumbnails" Support
+NEW: Added "Simple Video Embedder" Support
+
+
+Version 1.0 (08.20.08)
+NEW: Initial Release

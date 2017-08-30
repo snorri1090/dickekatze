@@ -1,0 +1,9 @@
+[07-Aug-2015 16:57:03 America/Denver] PHP Fatal error:  Call to undefined function add_shortcode() in /home/admin/public_html/web2/wp-content/plugins/facebook-feed-pro/facebook-feed-shortcode.php on line 1209
+[08-Aug-2015 22:54:45 America/Denver] PHP Fatal error:  Call to undefined function wp_parse_args() in /home/admin/public_html/web2/wp-content/plugins/facebook-feed-pro/facebook-feed-settings.php on line 35
+[11-Aug-2015 02:10:07 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/admin/public_html/web2/wp-content/plugins/facebook-feed-pro/facebook-feed.php on line 12
+[11-Aug-2015 20:01:14 America/Denver] PHP Fatal error:  Call to undefined function add_shortcode() in /home/admin/public_html/web2/wp-content/plugins/facebook-feed-pro/facebook-feed-shortcode.php on line 1209
+[12-Aug-2015 17:23:54 America/Denver] PHP Fatal error:  Call to undefined function wp_parse_args() in /home/admin/public_html/web2/wp-content/plugins/facebook-feed-pro/facebook-feed-settings.php on line 35
+[14-Aug-2015 12:25:09 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/admin/public_html/web2/wp-content/plugins/facebook-feed-pro/facebook-feed.php on line 12
+[17-Aug-2015 00:29:35 America/Denver] PHP Fatal error:  Call to undefined function wp_parse_args() in /home/admin/public_html/web2/wp-content/plugins/facebook-feed-pro/facebook-feed-settings.php on line 35
+[19-Aug-2015 11:56:29 America/Denver] PHP Fatal error:  Call to undefined function add_shortcode() in /home/admin/public_html/web2/wp-content/plugins/facebook-feed-pro/facebook-feed-shortcode.php on line 1209
+[20-Aug-2015 19:01:00 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home/admin/public_html/web2/wp-content/plugins/facebook-feed-pro/facebook-feed.php on line 12
